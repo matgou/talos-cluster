@@ -1,0 +1,6 @@
+terraform/**/.terraform.lock.hcl
+terraform/**/.terraform/**
+terraform/**/image.raw
+terraform/**/plan.out
+kubeconfig
+.terraform.lock.hcl
